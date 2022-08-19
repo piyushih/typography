@@ -1,5 +1,7 @@
 # typography
 Processing sketch that converts pictures into typography art
+- Used the Processing graphical library and IDE created by MIT Media Labs, pdf export module, and Java Swing GUI components library
+- This project manipulates image pixels to convert it into typography art with highly customisable options. Exports as JPEG image as well as PDF
 
 # How to run
 - Install Processing 3
